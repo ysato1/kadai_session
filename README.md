@@ -2,7 +2,6 @@
 
 ## DEMO
 
-  - デプロイしている場合はURLを記入（任意）
 
 ## 紹介と使い方
 
@@ -23,3 +22,4 @@
 
   - Flutterの教科書 by Flutter大学
   - https://zenn.dev/flutteruniv/books/flutter-textbook
+  - ※dartファイルのみ提出しています。
